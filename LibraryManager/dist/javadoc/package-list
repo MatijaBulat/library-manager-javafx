@@ -1,0 +1,7 @@
+hr.algebra
+hr.algebra.controller
+hr.algebra.dao
+hr.algebra.dao.sql
+hr.algebra.models
+hr.algebra.utilities
+hr.algebra.viewmodel
